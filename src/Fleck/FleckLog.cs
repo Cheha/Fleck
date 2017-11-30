@@ -2,6 +2,7 @@
 
 namespace Fleck
 {
+    // This is enum
     public enum LogLevel
     {
         Debug,
